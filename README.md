@@ -6,6 +6,12 @@
  * @Description: In User Settings Edit
  * @FilePath: /Telink_825X_SDK/example/at/README.md
  -->
+ 
+ 微信小程序联动：
+https://blog.csdn.net/chillsoul/article/details/105584465
+ 
+ 以下是安信可的AT固件使用方法。
+ 
 # AT 固件设计原理
 
 ## AT 设计原理
